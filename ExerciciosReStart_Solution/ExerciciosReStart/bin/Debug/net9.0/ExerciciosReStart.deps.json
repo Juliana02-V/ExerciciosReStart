@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ExerciciosReStart/1.0.0": {
+        "runtime": {
+          "ExerciciosReStart.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExerciciosReStart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

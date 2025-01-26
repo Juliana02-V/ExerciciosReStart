@@ -1,0 +1,14 @@
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\Calculadora_Classes\bin\Debug\net9.0\Calculadora_Classes.exe
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\Calculadora_Classes\bin\Debug\net9.0\Calculadora_Classes.deps.json
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\Calculadora_Classes\bin\Debug\net9.0\Calculadora_Classes.runtimeconfig.json
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\Calculadora_Classes\bin\Debug\net9.0\Calculadora_Classes.dll
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\Calculadora_Classes\bin\Debug\net9.0\Calculadora_Classes.pdb
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\Calculadora_Classes\obj\Debug\net9.0\Calculadora_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\Calculadora_Classes\obj\Debug\net9.0\Calculadora_Classes.AssemblyInfoInputs.cache
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\Calculadora_Classes\obj\Debug\net9.0\Calculadora_Classes.AssemblyInfo.cs
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\Calculadora_Classes\obj\Debug\net9.0\Calculadora_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\Calculadora_Classes\obj\Debug\net9.0\Calculadora_Classes.dll
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\Calculadora_Classes\obj\Debug\net9.0\refint\Calculadora_Classes.dll
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\Calculadora_Classes\obj\Debug\net9.0\Calculadora_Classes.pdb
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\Calculadora_Classes\obj\Debug\net9.0\Calculadora_Classes.genruntimeconfig.cache
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\Calculadora_Classes\obj\Debug\net9.0\ref\Calculadora_Classes.dll

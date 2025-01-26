@@ -1,0 +1,14 @@
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\ExerciciosReStart\bin\Debug\net9.0\ExerciciosReStart.exe
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\ExerciciosReStart\bin\Debug\net9.0\ExerciciosReStart.deps.json
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\ExerciciosReStart\bin\Debug\net9.0\ExerciciosReStart.runtimeconfig.json
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\ExerciciosReStart\bin\Debug\net9.0\ExerciciosReStart.dll
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\ExerciciosReStart\bin\Debug\net9.0\ExerciciosReStart.pdb
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\ExerciciosReStart\obj\Debug\net9.0\ExerciciosReStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\ExerciciosReStart\obj\Debug\net9.0\ExerciciosReStart.AssemblyInfoInputs.cache
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\ExerciciosReStart\obj\Debug\net9.0\ExerciciosReStart.AssemblyInfo.cs
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\ExerciciosReStart\obj\Debug\net9.0\ExerciciosReStart.csproj.CoreCompileInputs.cache
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\ExerciciosReStart\obj\Debug\net9.0\ExerciciosReStart.dll
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\ExerciciosReStart\obj\Debug\net9.0\refint\ExerciciosReStart.dll
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\ExerciciosReStart\obj\Debug\net9.0\ExerciciosReStart.pdb
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\ExerciciosReStart\obj\Debug\net9.0\ExerciciosReStart.genruntimeconfig.cache
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\ExerciciosReStart_Solution\ExerciciosReStart\obj\Debug\net9.0\ref\ExerciciosReStart.dll

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\ExerciciosReStart_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0888F8A3-63EA-4C49-83D7-EC152236720E}|Calculadora_Classes\\Calculadora_Classes.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\exerciciosrestart\\exerciciosrestart_solution\\calculadora_classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0888F8A3-63EA-4C49-83D7-EC152236720E}|Calculadora_Classes\\Calculadora_Classes.csproj|solutionrelative:calculadora_classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0888F8A3-63EA-4C49-83D7-EC152236720E}|Calculadora_Classes\\Calculadora_Classes.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\exerciciosrestart\\exerciciosrestart_solution\\calculadora_classes\\soma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0888F8A3-63EA-4C49-83D7-EC152236720E}|Calculadora_Classes\\Calculadora_Classes.csproj|solutionrelative:calculadora_classes\\soma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0888F8A3-63EA-4C49-83D7-EC152236720E}|Calculadora_Classes\\Calculadora_Classes.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\exerciciosrestart\\exerciciosrestart_solution\\calculadora_classes\\divisao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0888F8A3-63EA-4C49-83D7-EC152236720E}|Calculadora_Classes\\Calculadora_Classes.csproj|solutionrelative:calculadora_classes\\divisao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0888F8A3-63EA-4C49-83D7-EC152236720E}|Calculadora_Classes\\Calculadora_Classes.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\exerciciosrestart\\exerciciosrestart_solution\\calculadora_classes\\multiplica\u00E7ao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0888F8A3-63EA-4C49-83D7-EC152236720E}|Calculadora_Classes\\Calculadora_Classes.csproj|solutionrelative:calculadora_classes\\multiplica\u00E7ao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0888F8A3-63EA-4C49-83D7-EC152236720E}|Calculadora_Classes\\Calculadora_Classes.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\exerciciosrestart\\exerciciosrestart_solution\\calculadora_classes\\subtra\u00E7ao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0888F8A3-63EA-4C49-83D7-EC152236720E}|Calculadora_Classes\\Calculadora_Classes.csproj|solutionrelative:calculadora_classes\\subtra\u00E7ao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Divisao.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\ExerciciosReStart_Solution\\Calculadora_Classes\\Divisao.cs",
+              "RelativeDocumentMoniker": "Calculadora_Classes\\Divisao.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\ExerciciosReStart_Solution\\Calculadora_Classes\\Divisao.cs",
+              "RelativeToolTip": "Calculadora_Classes\\Divisao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:29:50.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Multiplica\u00E7ao.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\ExerciciosReStart_Solution\\Calculadora_Classes\\Multiplica\u00E7ao.cs",
+              "RelativeDocumentMoniker": "Calculadora_Classes\\Multiplica\u00E7ao.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\ExerciciosReStart_Solution\\Calculadora_Classes\\Multiplica\u00E7ao.cs",
+              "RelativeToolTip": "Calculadora_Classes\\Multiplica\u00E7ao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:29:13.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Subtra\u00E7ao.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\ExerciciosReStart_Solution\\Calculadora_Classes\\Subtra\u00E7ao.cs",
+              "RelativeDocumentMoniker": "Calculadora_Classes\\Subtra\u00E7ao.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\ExerciciosReStart_Solution\\Calculadora_Classes\\Subtra\u00E7ao.cs",
+              "RelativeToolTip": "Calculadora_Classes\\Subtra\u00E7ao.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:28:34.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Soma.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\ExerciciosReStart_Solution\\Calculadora_Classes\\Soma.cs",
+              "RelativeDocumentMoniker": "Calculadora_Classes\\Soma.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\ExerciciosReStart_Solution\\Calculadora_Classes\\Soma.cs",
+              "RelativeToolTip": "Calculadora_Classes\\Soma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:25:00.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\ExerciciosReStart_Solution\\Calculadora_Classes\\Program.cs",
+              "RelativeDocumentMoniker": "Calculadora_Classes\\Program.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\ExerciciosReStart_Solution\\Calculadora_Classes\\Program.cs",
+              "RelativeToolTip": "Calculadora_Classes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:18:50.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
