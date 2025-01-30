@@ -1,0 +1,15 @@
+C:\Users\Unkno\OneDrive\Área de Trabalho\ProjSuperClean_Juliana.Vaz1\ProjSuperClean_Juliana.Vaz\bin\Debug\net9.0\ProjSuperClean_Juliana.Vaz.exe
+C:\Users\Unkno\OneDrive\Área de Trabalho\ProjSuperClean_Juliana.Vaz1\ProjSuperClean_Juliana.Vaz\bin\Debug\net9.0\ProjSuperClean_Juliana.Vaz.deps.json
+C:\Users\Unkno\OneDrive\Área de Trabalho\ProjSuperClean_Juliana.Vaz1\ProjSuperClean_Juliana.Vaz\bin\Debug\net9.0\ProjSuperClean_Juliana.Vaz.runtimeconfig.json
+C:\Users\Unkno\OneDrive\Área de Trabalho\ProjSuperClean_Juliana.Vaz1\ProjSuperClean_Juliana.Vaz\bin\Debug\net9.0\ProjSuperClean_Juliana.Vaz.dll
+C:\Users\Unkno\OneDrive\Área de Trabalho\ProjSuperClean_Juliana.Vaz1\ProjSuperClean_Juliana.Vaz\bin\Debug\net9.0\ProjSuperClean_Juliana.Vaz.pdb
+C:\Users\Unkno\OneDrive\Área de Trabalho\ProjSuperClean_Juliana.Vaz1\ProjSuperClean_Juliana.Vaz\obj\Debug\net9.0\ProjSuperClean_Juliana.Vaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unkno\OneDrive\Área de Trabalho\ProjSuperClean_Juliana.Vaz1\ProjSuperClean_Juliana.Vaz\obj\Debug\net9.0\ProjSuperClean_Juliana.Vaz.AssemblyInfoInputs.cache
+C:\Users\Unkno\OneDrive\Área de Trabalho\ProjSuperClean_Juliana.Vaz1\ProjSuperClean_Juliana.Vaz\obj\Debug\net9.0\ProjSuperClean_Juliana.Vaz.AssemblyInfo.cs
+C:\Users\Unkno\OneDrive\Área de Trabalho\ProjSuperClean_Juliana.Vaz1\ProjSuperClean_Juliana.Vaz\obj\Debug\net9.0\ProjSuperClean_Juliana.Vaz.csproj.CoreCompileInputs.cache
+C:\Users\Unkno\OneDrive\Área de Trabalho\ProjSuperClean_Juliana.Vaz1\ProjSuperClean_Juliana.Vaz\obj\Debug\net9.0\ProjSuperClean_Juliana.Vaz.sourcelink.json
+C:\Users\Unkno\OneDrive\Área de Trabalho\ProjSuperClean_Juliana.Vaz1\ProjSuperClean_Juliana.Vaz\obj\Debug\net9.0\ProjSuperClean_Juliana.Vaz.dll
+C:\Users\Unkno\OneDrive\Área de Trabalho\ProjSuperClean_Juliana.Vaz1\ProjSuperClean_Juliana.Vaz\obj\Debug\net9.0\refint\ProjSuperClean_Juliana.Vaz.dll
+C:\Users\Unkno\OneDrive\Área de Trabalho\ProjSuperClean_Juliana.Vaz1\ProjSuperClean_Juliana.Vaz\obj\Debug\net9.0\ProjSuperClean_Juliana.Vaz.pdb
+C:\Users\Unkno\OneDrive\Área de Trabalho\ProjSuperClean_Juliana.Vaz1\ProjSuperClean_Juliana.Vaz\obj\Debug\net9.0\ProjSuperClean_Juliana.Vaz.genruntimeconfig.cache
+C:\Users\Unkno\OneDrive\Área de Trabalho\ProjSuperClean_Juliana.Vaz1\ProjSuperClean_Juliana.Vaz\obj\Debug\net9.0\ref\ProjSuperClean_Juliana.Vaz.dll
