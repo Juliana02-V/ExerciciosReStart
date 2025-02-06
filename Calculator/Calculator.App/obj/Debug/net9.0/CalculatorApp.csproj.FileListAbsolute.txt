@@ -1,0 +1,12 @@
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\Calculator\Calculator.App\bin\Debug\net9.0\CalculatorApp.deps.json
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\Calculator\Calculator.App\bin\Debug\net9.0\CalculatorApp.dll
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\Calculator\Calculator.App\bin\Debug\net9.0\CalculatorApp.pdb
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\Calculator\Calculator.App\obj\Debug\net9.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\Calculator\Calculator.App\obj\Debug\net9.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\Calculator\Calculator.App\obj\Debug\net9.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\Calculator\Calculator.App\obj\Debug\net9.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\Calculator\Calculator.App\obj\Debug\net9.0\CalculatorApp.sourcelink.json
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\Calculator\Calculator.App\obj\Debug\net9.0\CalculatorApp.dll
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\Calculator\Calculator.App\obj\Debug\net9.0\refint\CalculatorApp.dll
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\Calculator\Calculator.App\obj\Debug\net9.0\CalculatorApp.pdb
+C:\Users\Unkno\OneDrive\Área de Trabalho\ExerciciosReStart\Calculator\Calculator.App\obj\Debug\net9.0\ref\CalculatorApp.dll

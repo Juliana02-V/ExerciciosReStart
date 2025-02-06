@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\BoookStore_Juliana_Vaz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AFF76F-7DD1-4D62-B670-0E51A45D4968}|BoookStore_Juliana_Vaz.App\\BoookStore_Juliana_Vaz.App.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\exerciciosrestart\\boookstore_juliana_vaz\\boookstore_juliana_vaz.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AFF76F-7DD1-4D62-B670-0E51A45D4968}|BoookStore_Juliana_Vaz.App\\BoookStore_Juliana_Vaz.App.csproj|solutionrelative:boookstore_juliana_vaz.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AFF76F-7DD1-4D62-B670-0E51A45D4968}|BoookStore_Juliana_Vaz.App\\BoookStore_Juliana_Vaz.App.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\exerciciosrestart\\boookstore_juliana_vaz\\boookstore_juliana_vaz.app\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AFF76F-7DD1-4D62-B670-0E51A45D4968}|BoookStore_Juliana_Vaz.App\\BoookStore_Juliana_Vaz.App.csproj|solutionrelative:boookstore_juliana_vaz.app\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AFF76F-7DD1-4D62-B670-0E51A45D4968}|BoookStore_Juliana_Vaz.App\\BoookStore_Juliana_Vaz.App.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\exerciciosrestart\\boookstore_juliana_vaz\\boookstore_juliana_vaz.app\\boookstore_juliana_vaz.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0AFF76F-7DD1-4D62-B670-0E51A45D4968}|BoookStore_Juliana_Vaz.App\\BoookStore_Juliana_Vaz.App.csproj|solutionrelative:boookstore_juliana_vaz.app\\boookstore_juliana_vaz.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AFF76F-7DD1-4D62-B670-0E51A45D4968}|BoookStore_Juliana_Vaz.App\\BoookStore_Juliana_Vaz.App.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\exerciciosrestart\\boookstore_juliana_vaz\\boookstore_juliana_vaz.app\\data\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AFF76F-7DD1-4D62-B670-0E51A45D4968}|BoookStore_Juliana_Vaz.App\\BoookStore_Juliana_Vaz.App.csproj|solutionrelative:boookstore_juliana_vaz.app\\data\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AFF76F-7DD1-4D62-B670-0E51A45D4968}|BoookStore_Juliana_Vaz.App\\BoookStore_Juliana_Vaz.App.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\exerciciosrestart\\boookstore_juliana_vaz\\boookstore_juliana_vaz.app\\data\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AFF76F-7DD1-4D62-B670-0E51A45D4968}|BoookStore_Juliana_Vaz.App\\BoookStore_Juliana_Vaz.App.csproj|solutionrelative:boookstore_juliana_vaz.app\\data\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AFF76F-7DD1-4D62-B670-0E51A45D4968}|BoookStore_Juliana_Vaz.App\\BoookStore_Juliana_Vaz.App.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\exerciciosrestart\\boookstore_juliana_vaz\\boookstore_juliana_vaz.app\\data\\entities\\edithor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AFF76F-7DD1-4D62-B670-0E51A45D4968}|BoookStore_Juliana_Vaz.App\\BoookStore_Juliana_Vaz.App.csproj|solutionrelative:boookstore_juliana_vaz.app\\data\\entities\\edithor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AFF76F-7DD1-4D62-B670-0E51A45D4968}|BoookStore_Juliana_Vaz.App\\BoookStore_Juliana_Vaz.App.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\exerciciosrestart\\boookstore_juliana_vaz\\boookstore_juliana_vaz.app\\data\\entities\\rented.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AFF76F-7DD1-4D62-B670-0E51A45D4968}|BoookStore_Juliana_Vaz.App\\BoookStore_Juliana_Vaz.App.csproj|solutionrelative:boookstore_juliana_vaz.app\\data\\entities\\rented.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\BoookStore_Juliana_Vaz\\BoookStore_Juliana_Vaz.App\\Data\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "BoookStore_Juliana_Vaz.App\\Data\\BookDbContext.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\BoookStore_Juliana_Vaz\\BoookStore_Juliana_Vaz.App\\Data\\BookDbContext.cs",
+              "RelativeToolTip": "BoookStore_Juliana_Vaz.App\\Data\\BookDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:47:56.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rented.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\BoookStore_Juliana_Vaz\\BoookStore_Juliana_Vaz.App\\Data\\Entities\\Rented.cs",
+              "RelativeDocumentMoniker": "BoookStore_Juliana_Vaz.App\\Data\\Entities\\Rented.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\BoookStore_Juliana_Vaz\\BoookStore_Juliana_Vaz.App\\Data\\Entities\\Rented.cs",
+              "RelativeToolTip": "BoookStore_Juliana_Vaz.App\\Data\\Entities\\Rented.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:44:13.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edithor.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\BoookStore_Juliana_Vaz\\BoookStore_Juliana_Vaz.App\\Data\\Entities\\Edithor.cs",
+              "RelativeDocumentMoniker": "BoookStore_Juliana_Vaz.App\\Data\\Entities\\Edithor.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\BoookStore_Juliana_Vaz\\BoookStore_Juliana_Vaz.App\\Data\\Entities\\Edithor.cs",
+              "RelativeToolTip": "BoookStore_Juliana_Vaz.App\\Data\\Entities\\Edithor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:44:01.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\BoookStore_Juliana_Vaz\\BoookStore_Juliana_Vaz.App\\Data\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "BoookStore_Juliana_Vaz.App\\Data\\Entities\\Author.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\BoookStore_Juliana_Vaz\\BoookStore_Juliana_Vaz.App\\Data\\Entities\\Author.cs",
+              "RelativeToolTip": "BoookStore_Juliana_Vaz.App\\Data\\Entities\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:43:43.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\BoookStore_Juliana_Vaz\\BoookStore_Juliana_Vaz.App\\Data\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "BoookStore_Juliana_Vaz.App\\Data\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\BoookStore_Juliana_Vaz\\BoookStore_Juliana_Vaz.App\\Data\\Entities\\Book.cs",
+              "RelativeToolTip": "BoookStore_Juliana_Vaz.App\\Data\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:43:25.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BoookStore_Juliana_Vaz.App",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\BoookStore_Juliana_Vaz\\BoookStore_Juliana_Vaz.App\\BoookStore_Juliana_Vaz.App.csproj",
+              "RelativeDocumentMoniker": "BoookStore_Juliana_Vaz.App\\BoookStore_Juliana_Vaz.App.csproj",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\BoookStore_Juliana_Vaz\\BoookStore_Juliana_Vaz.App\\BoookStore_Juliana_Vaz.App.csproj",
+              "RelativeToolTip": "BoookStore_Juliana_Vaz.App\\BoookStore_Juliana_Vaz.App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T22:38:12.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\BoookStore_Juliana_Vaz\\BoookStore_Juliana_Vaz.App\\Program.cs",
+              "RelativeDocumentMoniker": "BoookStore_Juliana_Vaz.App\\Program.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\ExerciciosReStart\\BoookStore_Juliana_Vaz\\BoookStore_Juliana_Vaz.App\\Program.cs",
+              "RelativeToolTip": "BoookStore_Juliana_Vaz.App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T22:38:44.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

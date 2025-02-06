@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using BookStore.App.Data;
 using BookStore.App.Data.Emities;
+using System.Security.Claims;
 
 namespace BookStore.App.Pages.MyBooks
 {
@@ -30,12 +31,16 @@ namespace BookStore.App.Pages.MyBooks
         // For more information, see https://aka.ms/RazorPagesCRUD.
         public async Task<IActionResult> OnPostAsync()
         {
+            ModelState.Remove("Book.UserId");
+            ModelState.Remove("Book.Isbn");
+
             if (!ModelState.IsValid)
             {
                 return Page();
             }
-
+            Book.UserId = User.FindFirstValue(ClaimTypes.NameIdentifier);
             _context.Books.Add(Book);
+
             await _context.SaveChangesAsync();
 
             return RedirectToPage("./Index");

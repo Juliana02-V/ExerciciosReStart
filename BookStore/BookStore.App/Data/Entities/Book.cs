@@ -1,5 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Diagnostics.Contracts;
+using Microsoft.AspNetCore.Identity;
 
 namespace BookStore.App.Data.Emities;
 
@@ -20,5 +22,10 @@ public class Book
     [Required]
 
     public DateTime PublisheAt { get; set; }
+
+
+    public string UserId { get; set; }
+    
+    public IdentityUser User { get; set; }
 
 }
