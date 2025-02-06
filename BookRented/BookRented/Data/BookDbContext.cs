@@ -10,6 +10,6 @@ public class BookDbContext : IdentityDbContext
 
     public DbSet<Book> Books { get; set; }
     public DbSet<Author> Authors { get; set; }
-    public DbSet<Edithor> Edithors { get; set; }
+    public DbSet<Editor> Editor { get; set; }
 
 }

@@ -1,6 +1,3 @@
-using BookRented.Data;
-using Microsoft.AspNetCore.Identity;
-
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -14,6 +11,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<BookDbContext>();
 builder.Services.AddRazorPages();
 
+builder.Services.AddScoped<BookRepository>();
 
 var app = builder.Build();
 

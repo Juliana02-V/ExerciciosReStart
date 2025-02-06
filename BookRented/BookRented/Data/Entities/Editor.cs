@@ -1,6 +1,6 @@
 ﻿namespace BookRented.Data.Entities;
 
-public class Edithor
+public class Editor
 {
     public int Id { get; set; }
 

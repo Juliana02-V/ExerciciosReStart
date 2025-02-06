@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="Areas\Identity\Pages\View.cshtml" />
     <Content Remove="Pages\Shared\_LoginParticial.cshtml" />
   </ItemGroup>
 
