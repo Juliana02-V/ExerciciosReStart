@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\BoookStore_Juliana_Vaz.App.props" />
-</Project>
