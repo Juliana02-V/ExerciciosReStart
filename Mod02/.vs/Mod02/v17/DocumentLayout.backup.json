@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\Mod02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15C0A0C1-F4FB-4761-B11B-896F4EFC8091}|Mod02\\Mod02.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\mod02\\mod02\\listvesusdictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C0A0C1-F4FB-4761-B11B-896F4EFC8091}|Mod02\\Mod02.csproj|solutionrelative:mod02\\listvesusdictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C0A0C1-F4FB-4761-B11B-896F4EFC8091}|Mod02\\Mod02.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\mod02\\mod02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C0A0C1-F4FB-4761-B11B-896F4EFC8091}|Mod02\\Mod02.csproj|solutionrelative:mod02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C0A0C1-F4FB-4761-B11B-896F4EFC8091}|Mod02\\Mod02.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\mod02\\mod02\\mod02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15C0A0C1-F4FB-4761-B11B-896F4EFC8091}|Mod02\\Mod02.csproj|solutionrelative:mod02\\mod02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 189,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mod02.csproj",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\Mod02\\Mod02\\Mod02.csproj",
+              "RelativeDocumentMoniker": "Mod02\\Mod02.csproj",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\Mod02\\Mod02\\Mod02.csproj",
+              "RelativeToolTip": "Mod02\\Mod02.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-22T22:43:52.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListVesusDictionary.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\Mod02\\Mod02\\ListVesusDictionary.cs",
+              "RelativeDocumentMoniker": "Mod02\\ListVesusDictionary.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\Mod02\\Mod02\\ListVesusDictionary.cs",
+              "RelativeToolTip": "Mod02\\ListVesusDictionary.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:27:09.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\Mod02\\Mod02\\Program.cs",
+              "RelativeDocumentMoniker": "Mod02\\Program.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\Mod02\\Mod02\\Program.cs",
+              "RelativeToolTip": "Mod02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:17:21.386Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

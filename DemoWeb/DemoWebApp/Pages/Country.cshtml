@@ -1,0 +1,38 @@
+﻿@page
+@using Microsoft.VisualBasic
+@model DemoWebApp.Pages.CountryModel
+@{
+	int x = 10;
+
+	var countries = Model.Countries;
+}
+
+@for (int i = 0; i < 10; i++)
+{
+	<span>@i</span>
+	<br />
+}
+
+<h1>Countries</h1>
+
+<ul>
+	@foreach (var country in countries)
+	{
+		
+		<li><a href="https://www.google.com/search?q=@country" target="_blank">@country</a></li>
+	}
+</ul>
+
+
+<ul>
+	<li>Portugal</li>
+	<li>Brasil</li>
+	<li>Filipinas</li>
+</ul>
+
+
+@x
+X = @x
+<div>
+	Portugal
+</div>

@@ -1,0 +1,38 @@
+﻿@page
+@model WeatherService.App.Pages.WeatherFormModel
+@{
+    var weather = Model.MyWeather;
+}
+
+<form method="post">
+	<div class="form-group">
+		<label for="City">Search form a City</label>
+		<input type="text" class="form-control" asp-for="City" placeholder="Enter city"/>
+	</div>
+	<button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+
+<div class="text-center">
+    <h3 class="display-4">Weather</h3>
+</div>
+@if (Model.MyWeather is not null)
+{
+    <ul>
+        <li>Country: @weather.Country</li>
+        <li>Region: @weather.Region</li>
+        <li>City: @weather.Name</li>
+        <li>Temperature: @weather.Temperature</li>
+        <li>Lat: @weather.Lat</li>
+        <li>Lon: @weather.Lon</li>
+        <li>UpdatetAt:@weather.UpdatedAt </li>
+        <li> <img src="@weather.Icon" /> </li>
+        <li>Source: @weather.Source</li>
+    </ul>
+}
+else
+{
+	<div class="text-danger">No weather data found</div>
+}
+
+

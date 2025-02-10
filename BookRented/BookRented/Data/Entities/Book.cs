@@ -14,7 +14,7 @@ public class Book
 
     public string Category { get; set; }
 
-    // The following 2 properties are added to configure the FK to User
+    
     public string UserId { get; set; }
     public IdentityUser User { get; set; }
 

@@ -1,0 +1,28 @@
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution\CaçaTesouro\bin\Debug\net9.0\CaçaTesouro.exe
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution\CaçaTesouro\bin\Debug\net9.0\CaçaTesouro.deps.json
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution\CaçaTesouro\bin\Debug\net9.0\CaçaTesouro.runtimeconfig.json
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution\CaçaTesouro\bin\Debug\net9.0\CaçaTesouro.dll
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution\CaçaTesouro\bin\Debug\net9.0\CaçaTesouro.pdb
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution\CaçaTesouro\obj\Debug\net9.0\CaçaTesouro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution\CaçaTesouro\obj\Debug\net9.0\CaçaTesouro.AssemblyInfoInputs.cache
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution\CaçaTesouro\obj\Debug\net9.0\CaçaTesouro.AssemblyInfo.cs
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution\CaçaTesouro\obj\Debug\net9.0\CaçaTesouro.csproj.CoreCompileInputs.cache
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution\CaçaTesouro\obj\Debug\net9.0\CaçaTesouro.dll
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution\CaçaTesouro\obj\Debug\net9.0\refint\CaçaTesouro.dll
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution\CaçaTesouro\obj\Debug\net9.0\CaçaTesouro.pdb
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution\CaçaTesouro\obj\Debug\net9.0\CaçaTesouro.genruntimeconfig.cache
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution\CaçaTesouro\obj\Debug\net9.0\ref\CaçaTesouro.dll
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution - Copy\CaçaTesouro\obj\Debug\net9.0\CaçaTesouro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution - Copy\CaçaTesouro\obj\Debug\net9.0\CaçaTesouro.AssemblyInfoInputs.cache
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution - Copy\CaçaTesouro\obj\Debug\net9.0\CaçaTesouro.AssemblyInfo.cs
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution - Copy\CaçaTesouro\obj\Debug\net9.0\CaçaTesouro.csproj.CoreCompileInputs.cache
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution - Copy\CaçaTesouro\obj\Debug\net9.0\CaçaTesouro.dll
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution - Copy\CaçaTesouro\obj\Debug\net9.0\refint\CaçaTesouro.dll
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution - Copy\CaçaTesouro\obj\Debug\net9.0\CaçaTesouro.pdb
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution - Copy\CaçaTesouro\bin\Debug\net9.0\CaçaTesouro.exe
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution - Copy\CaçaTesouro\bin\Debug\net9.0\CaçaTesouro.deps.json
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution - Copy\CaçaTesouro\bin\Debug\net9.0\CaçaTesouro.runtimeconfig.json
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution - Copy\CaçaTesouro\bin\Debug\net9.0\CaçaTesouro.dll
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution - Copy\CaçaTesouro\bin\Debug\net9.0\CaçaTesouro.pdb
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution - Copy\CaçaTesouro\obj\Debug\net9.0\CaçaTesouro.genruntimeconfig.cache
+C:\Users\Unkno\OneDrive\Área de Trabalho\CaçaTesouro_Solution - Copy\CaçaTesouro\obj\Debug\net9.0\ref\CaçaTesouro.dll

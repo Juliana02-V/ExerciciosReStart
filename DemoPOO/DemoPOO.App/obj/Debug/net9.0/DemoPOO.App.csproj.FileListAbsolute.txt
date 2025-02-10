@@ -1,0 +1,14 @@
+C:\Users\Unkno\OneDrive\Área de Trabalho\DemoPOO\DemoPOO.App\bin\Debug\net9.0\DemoPOO.App.exe
+C:\Users\Unkno\OneDrive\Área de Trabalho\DemoPOO\DemoPOO.App\bin\Debug\net9.0\DemoPOO.App.deps.json
+C:\Users\Unkno\OneDrive\Área de Trabalho\DemoPOO\DemoPOO.App\bin\Debug\net9.0\DemoPOO.App.runtimeconfig.json
+C:\Users\Unkno\OneDrive\Área de Trabalho\DemoPOO\DemoPOO.App\bin\Debug\net9.0\DemoPOO.App.dll
+C:\Users\Unkno\OneDrive\Área de Trabalho\DemoPOO\DemoPOO.App\bin\Debug\net9.0\DemoPOO.App.pdb
+C:\Users\Unkno\OneDrive\Área de Trabalho\DemoPOO\DemoPOO.App\obj\Debug\net9.0\DemoPOO.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unkno\OneDrive\Área de Trabalho\DemoPOO\DemoPOO.App\obj\Debug\net9.0\DemoPOO.App.AssemblyInfoInputs.cache
+C:\Users\Unkno\OneDrive\Área de Trabalho\DemoPOO\DemoPOO.App\obj\Debug\net9.0\DemoPOO.App.AssemblyInfo.cs
+C:\Users\Unkno\OneDrive\Área de Trabalho\DemoPOO\DemoPOO.App\obj\Debug\net9.0\DemoPOO.App.csproj.CoreCompileInputs.cache
+C:\Users\Unkno\OneDrive\Área de Trabalho\DemoPOO\DemoPOO.App\obj\Debug\net9.0\DemoPOO.App.dll
+C:\Users\Unkno\OneDrive\Área de Trabalho\DemoPOO\DemoPOO.App\obj\Debug\net9.0\refint\DemoPOO.App.dll
+C:\Users\Unkno\OneDrive\Área de Trabalho\DemoPOO\DemoPOO.App\obj\Debug\net9.0\DemoPOO.App.pdb
+C:\Users\Unkno\OneDrive\Área de Trabalho\DemoPOO\DemoPOO.App\obj\Debug\net9.0\DemoPOO.App.genruntimeconfig.cache
+C:\Users\Unkno\OneDrive\Área de Trabalho\DemoPOO\DemoPOO.App\obj\Debug\net9.0\ref\DemoPOO.App.dll

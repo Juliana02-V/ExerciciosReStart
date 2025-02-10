@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\DemoPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC5A181-744D-407B-BACF-7EDF331998E8}|DemoPOO.App\\DemoPOO.App.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\demopoo\\demopoo.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC5A181-744D-407B-BACF-7EDF331998E8}|DemoPOO.App\\DemoPOO.App.csproj|solutionrelative:demopoo.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC5A181-744D-407B-BACF-7EDF331998E8}|DemoPOO.App\\DemoPOO.App.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\demopoo\\demopoo.app\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC5A181-744D-407B-BACF-7EDF331998E8}|DemoPOO.App\\DemoPOO.App.csproj|solutionrelative:demopoo.app\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC5A181-744D-407B-BACF-7EDF331998E8}|DemoPOO.App\\DemoPOO.App.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\demopoo\\demopoo.app\\extensions\\jsonextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC5A181-744D-407B-BACF-7EDF331998E8}|DemoPOO.App\\DemoPOO.App.csproj|solutionrelative:demopoo.app\\extensions\\jsonextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC5A181-744D-407B-BACF-7EDF331998E8}|DemoPOO.App\\DemoPOO.App.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\demopoo\\demopoo.app\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC5A181-744D-407B-BACF-7EDF331998E8}|DemoPOO.App\\DemoPOO.App.csproj|solutionrelative:demopoo.app\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC5A181-744D-407B-BACF-7EDF331998E8}|DemoPOO.App\\DemoPOO.App.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\demopoo\\demopoo.app\\iveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC5A181-744D-407B-BACF-7EDF331998E8}|DemoPOO.App\\DemoPOO.App.csproj|solutionrelative:demopoo.app\\iveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC5A181-744D-407B-BACF-7EDF331998E8}|DemoPOO.App\\DemoPOO.App.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\demopoo\\demopoo.app\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC5A181-744D-407B-BACF-7EDF331998E8}|DemoPOO.App\\DemoPOO.App.csproj|solutionrelative:demopoo.app\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC5A181-744D-407B-BACF-7EDF331998E8}|DemoPOO.App\\DemoPOO.App.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\demopoo\\demopoo.app\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC5A181-744D-407B-BACF-7EDF331998E8}|DemoPOO.App\\DemoPOO.App.csproj|solutionrelative:demopoo.app\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC5A181-744D-407B-BACF-7EDF331998E8}|DemoPOO.App\\DemoPOO.App.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\demopoo\\demopoo.app\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC5A181-744D-407B-BACF-7EDF331998E8}|DemoPOO.App\\DemoPOO.App.csproj|solutionrelative:demopoo.app\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JsonExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\DemoPOO\\DemoPOO.App\\Extensions\\JsonExtensions.cs",
+              "RelativeDocumentMoniker": "DemoPOO.App\\Extensions\\JsonExtensions.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\DemoPOO\\DemoPOO.App\\Extensions\\JsonExtensions.cs*",
+              "RelativeToolTip": "DemoPOO.App\\Extensions\\JsonExtensions.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:34:44.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bicicleta.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\DemoPOO\\DemoPOO.App\\Bicicleta.cs",
+              "RelativeDocumentMoniker": "DemoPOO.App\\Bicicleta.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\DemoPOO\\DemoPOO.App\\Bicicleta.cs",
+              "RelativeToolTip": "DemoPOO.App\\Bicicleta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:56:14.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\DemoPOO\\DemoPOO.App\\Bike.cs",
+              "RelativeDocumentMoniker": "DemoPOO.App\\Bike.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\DemoPOO\\DemoPOO.App\\Bike.cs",
+              "RelativeToolTip": "DemoPOO.App\\Bike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:56:13.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\DemoPOO\\DemoPOO.App\\Carro.cs",
+              "RelativeDocumentMoniker": "DemoPOO.App\\Carro.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\DemoPOO\\DemoPOO.App\\Carro.cs",
+              "RelativeToolTip": "DemoPOO.App\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:56:11.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IVeiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\DemoPOO\\DemoPOO.App\\IVeiculo.cs",
+              "RelativeDocumentMoniker": "DemoPOO.App\\IVeiculo.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\DemoPOO\\DemoPOO.App\\IVeiculo.cs",
+              "RelativeToolTip": "DemoPOO.App\\IVeiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:56:10.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\DemoPOO\\DemoPOO.App\\Moto.cs",
+              "RelativeDocumentMoniker": "DemoPOO.App\\Moto.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\DemoPOO\\DemoPOO.App\\Moto.cs",
+              "RelativeToolTip": "DemoPOO.App\\Moto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:56:09.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\DemoPOO\\DemoPOO.App\\Program.cs",
+              "RelativeDocumentMoniker": "DemoPOO.App\\Program.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\DemoPOO\\DemoPOO.App\\Program.cs",
+              "RelativeToolTip": "DemoPOO.App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:56:09.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\DemoPOO\\DemoPOO.App\\Veiculo.cs",
+              "RelativeDocumentMoniker": "DemoPOO.App\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\DemoPOO\\DemoPOO.App\\Veiculo.cs",
+              "RelativeToolTip": "DemoPOO.App\\Veiculo.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T21:51:48.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

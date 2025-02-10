@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\WeatherService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F7D765-C961-48B7-B953-797229F23856}|WeatherService.App\\WeatherService.App.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\weatherservice\\weatherservice.app\\services\\weatherservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F7D765-C961-48B7-B953-797229F23856}|WeatherService.App\\WeatherService.App.csproj|solutionrelative:weatherservice.app\\services\\weatherservicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F7D765-C961-48B7-B953-797229F23856}|WeatherService.App\\WeatherService.App.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\weatherservice\\weatherservice.app\\pages\\weather.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F7D765-C961-48B7-B953-797229F23856}|WeatherService.App\\WeatherService.App.csproj|solutionrelative:weatherservice.app\\pages\\weather.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F7D765-C961-48B7-B953-797229F23856}|WeatherService.App\\WeatherService.App.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\weatherservice\\weatherservice.app\\pages\\weatherform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7F7D765-C961-48B7-B953-797229F23856}|WeatherService.App\\WeatherService.App.csproj|solutionrelative:weatherservice.app\\pages\\weatherform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F7D765-C961-48B7-B953-797229F23856}|WeatherService.App\\WeatherService.App.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\weatherservice\\weatherservice.app\\pages\\weatherform.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7F7D765-C961-48B7-B953-797229F23856}|WeatherService.App\\WeatherService.App.csproj|solutionrelative:weatherservice.app\\pages\\weatherform.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7F7D765-C961-48B7-B953-797229F23856}|WeatherService.App\\WeatherService.App.csproj|c:\\users\\unkno\\onedrive\\\u00E1rea de trabalho\\weatherservice\\weatherservice.app\\pages\\weather.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7F7D765-C961-48B7-B953-797229F23856}|WeatherService.App\\WeatherService.App.csproj|solutionrelative:weatherservice.app\\pages\\weather.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForm.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\WeatherService\\WeatherService.App\\Pages\\WeatherForm.cshtml.cs",
+              "RelativeDocumentMoniker": "WeatherService.App\\Pages\\WeatherForm.cshtml.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\WeatherService\\WeatherService.App\\Pages\\WeatherForm.cshtml.cs",
+              "RelativeToolTip": "WeatherService.App\\Pages\\WeatherForm.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:41:58.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\WeatherService\\WeatherService.App\\Pages\\WeatherForm.cshtml",
+              "RelativeDocumentMoniker": "WeatherService.App\\Pages\\WeatherForm.cshtml",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\WeatherService\\WeatherService.App\\Pages\\WeatherForm.cshtml",
+              "RelativeToolTip": "WeatherService.App\\Pages\\WeatherForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T20:40:44.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weather.cshtml",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\WeatherService\\WeatherService.App\\Pages\\Weather.cshtml",
+              "RelativeDocumentMoniker": "WeatherService.App\\Pages\\Weather.cshtml",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\WeatherService\\WeatherService.App\\Pages\\Weather.cshtml",
+              "RelativeToolTip": "WeatherService.App\\Pages\\Weather.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T20:40:41.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weather.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\WeatherService\\WeatherService.App\\Pages\\Weather.cshtml.cs",
+              "RelativeDocumentMoniker": "WeatherService.App\\Pages\\Weather.cshtml.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\WeatherService\\WeatherService.App\\Pages\\Weather.cshtml.cs",
+              "RelativeToolTip": "WeatherService.App\\Pages\\Weather.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:40:37.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherServiceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\WeatherService\\WeatherService.App\\Services\\WeatherServiceFactory.cs",
+              "RelativeDocumentMoniker": "WeatherService.App\\Services\\WeatherServiceFactory.cs",
+              "ToolTip": "C:\\Users\\Unkno\\OneDrive\\\u00C1rea de Trabalho\\WeatherService\\WeatherService.App\\Services\\WeatherServiceFactory.cs",
+              "RelativeToolTip": "WeatherService.App\\Services\\WeatherServiceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T20:37:26.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

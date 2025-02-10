@@ -1,45 +1,50 @@
-﻿
+﻿namespace BookRented.Pages.MyBooks;
 
-namespace BookRented.Pages.MyBooks
+public class CreateModel : PageModel
 {
-    public class CreateModel : PageModel
+    [BindProperty]
+    public Book Book { get; set; }
+
+    private readonly BookRepository _bookRepository;
+
+    private readonly BookDbContext _context;
+
+    public CreateModel(BookDbContext context, BookRepository bookRepository)
     {
-        [BindProperty]
-        public Book Book { get; set; }
+        _context = context;
+        _bookRepository = bookRepository;
 
-        private readonly BookRepository _bookRepository;
+    }
 
-        private readonly BookDbContext _context;
+    public IActionResult OnGet()
+    {
+        ViewData["AuthorId"] = new SelectList(_context.Authors, "Id", "Name");
+        ViewData["EditorId"] = new SelectList(_context.Editor, "Id", "Name");
+        ViewData["UserId"] = new SelectList(_context.Users, "Id", "Email");
 
-        public CreateModel(BookDbContext context, BookRepository bookRepository)
+        return Page();
+    }
+
+    public async Task<IActionResult> OnPostAsync()
+    {
+
+        if (!ModelState.IsValid)
         {
-            _context = context;
-            _bookRepository = bookRepository;
-
-        }
-
-        public IActionResult OnGet()
-        {
-            ViewData["AuthorId"] = new SelectList(_context.Authors, "Id", "Name");
-            ViewData["EditorId"] = new SelectList(_context.Editor, "Id", "Name");
-
+            
             return Page();
         }
 
-
-
-        
-        public async Task<IActionResult> OnPostAsync()
+       
+        var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+        if (string.IsNullOrEmpty(userId))
         {
-            if (!ModelState.IsValid)
-            {
-                return Page();
-            }
-
-            _context.Books.Add(Book);
-            await _context.SaveChangesAsync();
-
-            return RedirectToPage("./Index");
+            ModelState.AddModelError("", "Usuário não autenticado.");
+            return Page();
         }
+        
+        await _bookRepository.AddAsync(Book);
+        return RedirectToPage("./Index");
     }
 }
+
+

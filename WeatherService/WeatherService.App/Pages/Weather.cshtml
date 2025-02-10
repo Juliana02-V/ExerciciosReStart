@@ -1,0 +1,21 @@
+﻿@page
+@model WeatherService.App.Pages.WeatherModel
+@{
+    var weather = Model.MyWeather;  
+
+}
+<div class="text-center">
+    <h3 class="display-4">Weather</h3>
+</div>
+
+<ul>
+    <li>Country: @weather.Country</li>
+    <li>Region: @weather.Region</li>
+    <li>City: @weather.Name</li>
+    <li>Temperature: @weather.Temperature</li>
+    <li>Lat: @weather.Lat</li>
+    <li>Lon: @weather.Lon</li>
+    <li>UpdatetAt:@weather.UpdatedAt </li>
+    <li> <img src="@weather.Icon" /> </li>
+    <li>By @weather.Source</li>
+</ul>

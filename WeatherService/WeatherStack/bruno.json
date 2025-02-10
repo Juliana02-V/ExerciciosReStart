@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "WeatherStack",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
